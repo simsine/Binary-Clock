@@ -1,5 +1,5 @@
 # Binary-Clock
-The current time visualized in binary within an html page. Intended to be used for wallapaper engine
+The current time visualized in binary within an html page. Intended to be used with wallapaper engine
 
 This was my first real programming project
 
