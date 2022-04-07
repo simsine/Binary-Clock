@@ -1,0 +1,40 @@
+body {
+    --on:#FFFFFF;--off:#171717;}
+
+body,html {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    margin: 0;
+    padding: 0
+}
+
+#container {
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+.column {
+    width: 4%;
+}
+
+.dot {
+    background: var(--off);
+    width: 6.25%;
+    height: 100%;
+    transition: all .3s ease-in-out
+}
+
+.on {
+    background-color: var(--on)
+}
+
+input:focus {
+    outline: 0
+}
+
+p {
+    color: #fff;
+    position: absolute
+}
