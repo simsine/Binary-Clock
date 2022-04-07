@@ -1,5 +1,6 @@
 body {
-    --on:#FFFFFF;--off:#171717;}
+    --on:#FFFFFF; --off:#171717;
+}
 
 body,html {
     width: 100%;
