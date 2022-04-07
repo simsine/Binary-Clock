@@ -1,4 +1,7 @@
 # Binary-Clock
 The current time visualized in binary within an html page. Intended to be used for wallapaper engine
 
-Yes the javascript program is shit, i wrote it like 3 years ago
+Yes i know the javascript program is shit, i wrote it like 3 years ago
+
+# How-to
+You run this like you would with any other html site, open the index.html file in your preferred web browser.
