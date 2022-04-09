@@ -1,6 +1,8 @@
 # Binary-Clock
 The current time visualized in binary within an html page. Intended to be used with wallpaper engine
 
+The steam workshop page can be found here: [Binary Clock](https://steamcommunity.com/sharedfiles/filedetails/?id=2189068436).
+
 The properties.js files is used by wallpaper engine, but i havent implemented this yet.
 
 This was my first real programming project
