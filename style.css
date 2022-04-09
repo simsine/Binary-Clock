@@ -1,6 +1,5 @@
 body {
-    --on:#FFFFFF; --off:#171717;
-}
+    --on:#FFFFFF;--off:#171717;}
 
 body,html {
     width: 100%;
@@ -10,7 +9,7 @@ body,html {
     padding: 0
 }
 
-#container {
+.container {
     display: flex;
     height: 100%;
     width: 100%;
