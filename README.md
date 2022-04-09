@@ -1,5 +1,5 @@
 # Binary-Clock
-The current time visualized in binary within an html page. Intended to be used with wallapaper engine
+The current time visualized in binary within an html page. Intended to be used with wallpaper engine
 
 The properties.js files is used by wallpaper engine, but i havent implemented this yet.
 
