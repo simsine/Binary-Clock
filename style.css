@@ -15,10 +15,6 @@ body,html {
     width: 100%;
 }
 
-.column {
-    width: 4%;
-}
-
 .dot {
     background: var(--off);
     width: 6.25%;
@@ -28,13 +24,4 @@ body,html {
 
 .on {
     background-color: var(--on)
-}
-
-input:focus {
-    outline: 0
-}
-
-p {
-    color: #fff;
-    position: absolute
 }
