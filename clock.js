@@ -15,8 +15,8 @@ function updateClock () {
     // Generating current time in seconds //
   let d = new Date();
   let sec = d.getSeconds() + (d.getMinutes() * 60) + (d.getHours() * 3600);
+  // Generating binary string //
   let bin = sec.toString(2);
-    // Generating binary string //
   while (bin.length < 16) {
     bin = "0" + bin;
   }
